@@ -45,3 +45,7 @@ Should You wish to submit work that is not Your original creation, You may submi
 ## 8. Notification
 
 You agree to notify the Maintainer of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect.
+
+## 9. Governing Law and Jurisdiction
+
+This agreement is governed by and construed in accordance with the laws of the Republic of India, without regard to its conflict-of-laws principles. The courts at Gurugram, Haryana, India shall have exclusive jurisdiction over any dispute arising out of or in connection with this agreement, and You irrevocably submit to the jurisdiction of those courts. This section does not limit the Maintainer's right to seek interim or injunctive relief in any court of competent jurisdiction.
