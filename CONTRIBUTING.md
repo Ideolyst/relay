@@ -44,6 +44,6 @@ Contributions are reviewed through pull requests. Maintainers may ask for change
 
 Unless explicitly stated otherwise, contributions you intentionally submit for inclusion are licensed under GNU AGPL version 3 only (`AGPL-3.0-only`). Only submit work you have the right to contribute, and retain required third-party notices.
 
-Before your first pull request can be merged, you need to accept the [Contributor License Agreement](CLA.md). A bot comments on your pull request with the sentence to post; signing once covers all your future contributions. You keep copyright in your contributions. The CLA grants the maintainer a license to them, including the right to offer Relay under other licenses (for example a commercial license) alongside AGPL-3.0-only.
+Before your first pull request can be merged, you need to accept the [Contributor License Agreement](CLA.md). The CLA Assistant bot comments on your pull request with a link; sign there with your GitHub account. Signing once covers all your future contributions. You keep copyright in your contributions. The CLA grants the maintainer a license to them, including the right to offer Relay under other licenses (for example a commercial license) alongside AGPL-3.0-only.
 
 The existing core is available under AGPL-3.0-only. Optional paid hosting, setup, and support can fund maintenance without making community contributions dependent on a subscription.

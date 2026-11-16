@@ -4,7 +4,7 @@ Version 1.0. Adapted from the Apache Software Foundation Individual Contributor 
 
 Thank you for your interest in Relay (the "Project"), maintained by Rudresh Narwal (the "Maintainer"). To clarify the intellectual property license granted with Contributions from any person, the Maintainer asks each contributor to accept this agreement. It protects you as a contributor as well as the Maintainer and users of the Project. It does not change your rights to use your own Contributions for any other purpose.
 
-You accept this agreement by posting the sentence requested by the CLA Assistant bot as a comment on your pull request. Your GitHub account, the date and the pull request are recorded as your signature.
+You accept this agreement by signing it with your GitHub account through [CLA Assistant](https://cla-assistant.io/Ideolyst/relay), which links from your first pull request. Your GitHub account and the date are recorded as your signature.
 
 You accept and agree to the following terms and conditions for Your present and future Contributions submitted to the Project. Except for the license granted herein to the Maintainer and recipients of software distributed by the Maintainer, You reserve all right, title, and interest in and to Your Contributions.
 
