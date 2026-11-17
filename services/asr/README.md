@@ -9,8 +9,8 @@ Startup downloads immutable pinned Parakeet v3 int8 ONNX and Silero VAD assets, 
 Run tests from the repository root with a disposable Python 3.11 virtual environment:
 
 ```sh
-python3.11 -m venv .venv-asr
-. .venv-asr/bin/activate
+python3.11 -m venv /tmp/venv-asr
+. /tmp/venv-asr/bin/activate
 python -m pip install fastapi==0.135.1 python-multipart==0.0.22 httpx==0.28.1
 python -m unittest discover -s tests -p 'asr_test.py'
 deactivate
